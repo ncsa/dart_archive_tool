@@ -58,7 +58,4 @@ using namespace std;
 // node_boss: contains a work order for the master rank of a node to process
 // node_worker: contains list that a thread on a node should process
 
-
-
-
 #endif  // #ifndef PARFU_MASTER_HH_
